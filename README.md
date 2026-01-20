@@ -3,9 +3,9 @@
 This project implements an AI-based news article classification system using Machine Learning and Natural Language Processing (NLP). News articles are automatically classified into predefined categories such as Politics, Sports, Entertainment, and Wellness. The task is treated as a multi-class supervised learning problem.
 
 ## Dataset
--**Total records:** 104,649
--**Feature used:** full_text
--**Target label:** categoryEncoded
+- **Total records:** 104,649
+- **Feature used:** full_text
+- **Target label:** categoryEncoded
 
 ## Techniques Used
 - TF-IDF Vectorization
