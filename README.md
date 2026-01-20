@@ -40,4 +40,4 @@ This project implements an AI-based news article classification system using Mac
 
  ## Author
  **Mahan Shrestha**
- BIT-Islington College, Kathmandu
+ BSc(Hons) Computing-Islington College, Kathmandu
